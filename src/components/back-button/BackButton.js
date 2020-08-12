@@ -10,7 +10,7 @@ const BackButton = () => (
   <Link className={css.link} to='/'>
     <div className={css.top}>
       <Icon icon={roundArrowBackIos} color='white' />
-      <p>Back to Galery</p>
+      <p>Back to Gallery</p>
     </div>
   </Link>
 );
